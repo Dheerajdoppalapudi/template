@@ -1,4 +1,4 @@
-# 🔥 Full-Stack Boilerplate Template
+# 🔥 Full-Stack Template
 
 A modern, production-ready full-stack application boilerplate designed to get you up and running quickly without starting from scratch.
 
